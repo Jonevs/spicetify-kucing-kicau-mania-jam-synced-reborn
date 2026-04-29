@@ -35,8 +35,8 @@ const pkg = JSON.parse(await readFile(join(process.cwd(), 'package.json'), 'utf-
 
 const entryPoint = join(process.cwd(), 'src', 'app.tsx')
 const outDir = join(process.cwd(), 'dist')
-const outFile = join(outDir, 'cat-jam.js')
-const extFileName = 'cat-jam.js'
+const outFile = join(outDir, 'kucing-kicau-mania-jam.js')
+const extFileName = 'kucing-kicau-mania-jam.js'
 
 function getSpicetifyExtensionsDir(): string {
 	try {
