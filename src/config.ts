@@ -10,7 +10,7 @@ export const APP_CONFIG = {
 	},
 	DEFAULTS: {
 		VIDEO_URL:
-			'https://github.com/FixeQD/spicetify-cat-jam-synced-reborn/raw/main/src/resources/catjam.webm',
+			'https://github.com/thunderkex/spicetify-kucing-kicau-mania-jam-synced-reborn/raw/main/src/resources/catjam.webm',
 		BPM: 135.48,
 		SIZE: 100,
 		RETRY_DELAY: 200,
