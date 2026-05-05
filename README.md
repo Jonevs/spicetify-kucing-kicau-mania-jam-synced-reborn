@@ -1,6 +1,6 @@
 # Cat-Jam Synced (Reborn)
 
-![preview](assets/preview.gif)
+![preview](assets/kicaumania.gif)
 
 A reborn and optimized Cat-Jam experience, perfectly in sync with your beat. Make a cat appear next to your progress bar, jamming along with your music synchronized to the beat!
 
